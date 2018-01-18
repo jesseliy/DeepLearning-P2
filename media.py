@@ -8,4 +8,4 @@ class Movie():
 		self.trailer_url = trailer_youtube
 	
 	def show_trailer(self):
-		webbrowser.open(self.trailer_yotube_url)
+		webbrowser.open(self.trailer_url)
