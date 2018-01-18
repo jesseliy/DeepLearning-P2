@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes
+import fresh_tomatoes  # A library for creating the web-page
 
 # function definition:
 # media.Movie(title,storyline,poster_image,trailer_youtube)
@@ -29,8 +29,8 @@ Coco = media.Movie(
 """ you can add you favorite movies here
 """
 
-movies = [The_Shawshank_Redemption, The_GodFather, Coco]  # Creat the list
-fresh_tomatoes.open_movies_page(movies)  # Creat&Run the movie's page
+movies = [The_Shawshank_Redemption, The_GodFather, Coco]  # Creat the movie list for movie page
+fresh_tomatoes.open_movies_page(movies)  # Creat the movie page
 
 """ Following is my question for reviewer:
     In PEP8, line is restricted to a limited length. However, for a URL which
