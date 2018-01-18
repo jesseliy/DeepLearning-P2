@@ -5,7 +5,7 @@ Project 2 for Machinelearning of Udacity
 - [Python Installation](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)
 
 ### Usage
-- Show the title and tailor of my favorite movies.
+- Show the title and trailer of my favorite movies.
 - You can add yours in the file entertainment_center.py
 
 ### Acknowledgments
