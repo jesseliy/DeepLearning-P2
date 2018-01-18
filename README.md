@@ -1,5 +1,5 @@
-# DeepLearning-P2
-Project 2 for Deeplearning of Udacity
+# MachineLearning-P2
+Project 2 for Machinelearning of Udacity
 ### Installation
 - The program is programed under **Python 2.0**
 - [Python Installation](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)
